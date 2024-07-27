@@ -1,10 +1,12 @@
 vim.cmd("set expandtab")
-vim.cmd("set tabstop=2 softtabstop=2 shiftwidth=2")
+vim.cmd("set tabstop=4 softtabstop=4 shiftwidth=4")
 vim.cmd("set smarttab")
 vim.cmd("set ignorecase")
 vim.cmd("set incsearch")
 vim.cmd("set showmatch")
 vim.cmd("set number")
+
+vim.opt.scrolloff = 10
 
 -- for nvim tree
 vim.g.loaded_netrw = 1
