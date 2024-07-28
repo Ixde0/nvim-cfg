@@ -1,0 +1,4 @@
+- move all vim keymaps to one place
+- change vim.cmd("...") to vim.opt... 
+- config nvim for java
+- check each plugin options to see if there is sth cool to enable
