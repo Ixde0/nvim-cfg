@@ -9,6 +9,7 @@ return {
                 "vim",
                 "vimdoc",
                 "java",
+                "kotlin",
                 "go",
                 "javascript",
                 "html",
