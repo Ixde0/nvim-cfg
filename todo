@@ -1,0 +1,3 @@
+- move all vim keymaps to one place
+- change vim.cmd("...") to vim.opt... 
+- config nvim for java
